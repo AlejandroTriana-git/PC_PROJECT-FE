@@ -116,6 +116,10 @@ a { text-decoration: none; }
   background: var(--verde-udec);
 }
 
+.logo-topbar {
+  height: 60px;
+  width: auto;
+}
 
 .topbar .usuario-box {
   display: flex;

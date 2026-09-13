@@ -28,7 +28,7 @@ function renderizarBarraSuperior(idContenedor) {
   elemento.innerHTML = `
     <div class="topbar">
   
-          <img src="assets/logos/logosimbolo-blanco.png" alt="Escudo Universidad de Cundinamarca">
+          <img src="assets/logos/logosimbolo-blanco.png" alt="Escudo Universidad de Cundinamarca" class="logo-topbar">
 
       ${
         usuario
